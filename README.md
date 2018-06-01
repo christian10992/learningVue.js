@@ -6,3 +6,6 @@ This is just practice for the very basics, i.e. syntax and a few directives.
 
 ## Exercise 2
 Quick practice with event listeners and modifiers.
+
+## Exercise 3
+Using computed and watch.
